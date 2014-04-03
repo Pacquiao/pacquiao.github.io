@@ -7,6 +7,7 @@ index.html
 |---Main.html
     |
     |---about.html
+
     |---artworks.html
         |
         |---prehighschool.html

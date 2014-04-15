@@ -4,6 +4,12 @@ font-family: myFirstFont;
 src: url(pacquiao.ttf);
 }
 
+@font-face
+{
+font-family: customFont2;
+src: url(sansation_light.woff);
+}
+
 @charset "UTF-8";
 p {
 	color: white;
@@ -46,13 +52,13 @@ h1 {
 h2 {
     text-align: center;
 	color: white;
-	font-family: myFirstFont;
+	font-family: customFont2;
 }
 
 h3 {
 	text-align: center;
 	color: white;
-	font-family: myFirstFont;
+	font-family: customFont2;
 }
 
 img.logo{

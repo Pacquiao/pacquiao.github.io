@@ -11,9 +11,8 @@ src: url(sansation_light.woff);
 }
 
 @charset "UTF-8";
-p {
+p.pac {
 	color: white;
-	font-family: myFirstFont; 
 	text-align: center;
 	/* You forgot semicolon so it wasnt reading css */
 }
